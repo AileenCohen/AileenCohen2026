@@ -3,7 +3,9 @@ his is the code and the files related to the work titled: "Activator-binding dom
 
 Authors: Aileen Cohen, Joshua Bugis, Vladimir Mindel, Gilad Yaakov, Naama Barkai
 
-To get the extracted signal files for the metaprofiles, use the data published here:
-https://doi.org/10.5281/zenodo.20254051
+To get the additional files needed for this version of the code, use the data published here:
+[https://doi.org/10.5281/zenodo.20254051](https://doi.org/10.5281/zenodo.24081939)
+
+There's also a cell in the Jupyter Notebook that may extract this data for you.
 
 In this repository you will find the code used to produce and analyze the figures in said paper including the data used to do so.
